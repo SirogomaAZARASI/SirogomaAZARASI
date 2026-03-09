@@ -7,6 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/Markdown-blue?logo=Markdown)
 ![Static Badge](https://img.shields.io/badge/C-orange?logo=C)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B)
+![Static Badge](https://img.shields.io/badge/python-green?logo=python)
 <p align="left">
   <a href="https://github.com/SirogomaAZARASI">
     <img height="20" src="https://komarev.com/ghpvc/?username=SirogomaAZARASI" />
