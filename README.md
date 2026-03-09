@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/CSS-red?logo=CSS)
 ![Static Badge](https://img.shields.io/badge/Markdown-blue?logo=Markdown)
+![Static Badge](https://img.shields.io/badge/C-orange?logo=C)
 <p align="left">
   <a href="https://github.com/SirogomaAZARASI">
     <img height="20" src="https://komarev.com/ghpvc/?username=SirogomaAZARASI" />
