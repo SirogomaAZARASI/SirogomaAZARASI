@@ -22,8 +22,6 @@
 
 <img src="https://raw.githubusercontent.com/SirogomaAZARASI/SirogomaAZARASI/output/github-contribution-grid-snake.svg">
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SirogomaAZARASI)
-
 <img alt="Top Langs" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SirogomaAZARASI&theme=tokyonight&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
