@@ -22,4 +22,6 @@
 
 <img src="https://raw.githubusercontent.com/SirogomaAZARASI/SirogomaAZARASI/output/github-contribution-grid-snake.svg">
 
+<img alt="Top Langs" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+
 ![Tech Stack](https://skillicons.dev/icons?i=github,c,cpp,cs,html,css,swift,js,nodejs,python,markdown,raspberrypi,unity,blender,anaconda,atom,bash,vscode,docker,linux,windows,apple)
