@@ -24,12 +24,6 @@
 
 <img alt="Top Langs" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SirogomaAZARASI&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SirogomaAZARASI&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SirogomaAZARASI&theme=juicyfresh&no-bg=true" />
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SirogomaAZARASI&theme=tokyonight&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ![Tech Stack](https://skillicons.dev/icons?i=github,c,cpp,cs,html,css,swift,js,nodejs,python,markdown,raspberrypi,unity,blender,anaconda,atom,bash,vscode,docker,linux,windows,apple)
