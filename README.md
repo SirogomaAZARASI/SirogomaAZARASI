@@ -30,7 +30,7 @@
 
 # キャラクター紹介
 ![U6ZtUF4s7OgqIy6LkXJRydoVOY93/0oDgkmlHK7aGWZfh.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/U6ZtUF4s7OgqIy6LkXJRydoVOY93%2F0oDgkmlHK7aGWZfh.jpg?alt=media&token=00b6951f-e609-43da-9fcf-d2ae49d4bde7)
-　　　種族名:Nekko<br>
-　　　　名前:SirogomaAZARASI<br>
-　　　　年齢:8歳<br>
-好きな食べ物:いわし
+##      種族名:Nekko<br>
+##       名前:SirogomaAZARASI<br>
+##       年齢:8歳<br>
+## 好きな食べ物:いわし
