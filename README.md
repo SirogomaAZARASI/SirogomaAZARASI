@@ -27,3 +27,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=SirogomaAZARASI&theme=tokyonight&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ![Tech Stack](https://skillicons.dev/icons?i=github,c,cpp,cs,html,css,swift,js,nodejs,python,markdown,raspberrypi,unity,blender,anaconda,atom,bash,vscode,docker,linux,windows,apple)
+
+# キャラクター紹介
+![U6ZtUF4s7OgqIy6LkXJRydoVOY93/0oDgkmlHK7aGWZfh.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/U6ZtUF4s7OgqIy6LkXJRydoVOY93%2F0oDgkmlHK7aGWZfh.jpg?alt=media&token=00b6951f-e609-43da-9fcf-d2ae49d4bde7)
