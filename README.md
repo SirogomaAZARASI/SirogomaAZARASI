@@ -11,7 +11,7 @@
 
 # 通常
 
-<img src="https://raw.githubusercontent.com/SirogomaAZARASI/SirogomaAZARASI/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/SirogomaAZARASI/SirogomaAZARASI/output/github-contribution-grid-snake.svg"
 
 <img alt="Top Langs" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
 
