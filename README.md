@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AFSirogomaAZARASI%E3%81%A7%E3%81%99%E3%80%82)](https://git.io/typing-svg)
-
 <p align="left">
   <a href="https://github.com/SirogomaAZARASI">
     <img height="20" src="https://komarev.com/ghpvc/?username=SirogomaAZARASI" />
