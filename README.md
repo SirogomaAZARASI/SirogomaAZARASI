@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/SirogomaAZARASI/SirogomaAZARASI/output/github-contribution-grid-snake-dark.svg">
 
-# 通常
+# 通常モード
 
 <img src="https://raw.githubusercontent.com/SirogomaAZARASI/SirogomaAZARASI/output/github-contribution-grid-snake.svg">
 
