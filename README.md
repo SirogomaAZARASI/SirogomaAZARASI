@@ -15,7 +15,7 @@
 
 <img alt="Top Langs" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SirogomaAZARASI&theme=tokyonight&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SirogomaAZARASI&theme=tokyonight&hide_border=true&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ![Tech Stack](https://skillicons.dev/icons?i=github,c,cpp,cs,html,css,swift,js,python,markdown,raspberrypi,unity,blender,anaconda,atom,bash,vscode,docker,linux,windows,apple)
 
