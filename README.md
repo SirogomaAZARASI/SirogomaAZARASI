@@ -21,19 +21,19 @@
 
 # キャラクター紹介①
 ![U6ZtUF4s7OgqIy6LkXJRydoVOY93/xvrz7yQGuhE3ui0w.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/U6ZtUF4s7OgqIy6LkXJRydoVOY93%2Fxvrz7yQGuhE3ui0w.jpg?alt=media&token=d0d989bc-8afb-441a-be9c-b245ec5f01cf)
-##      種族名:Nekko<br>
-##       名前:SirogomaAZARASI<br>
-##       年齢:8歳<br>
+## 種族名:Nekko<br>
+## 名前:SirogomaAZARASI<br>
+## 年齢:8歳<br>
 ## 好きな食べ物:いわし<br>
-##  好きな季節:冬<br>
-##     出身地:南極<br>
-##      寿命:20〜30年<br>
+## 好きな季節:冬<br>
+## 出身地:南極<br>
+## 寿命:20〜30年<br>
 # キャラクター紹介②
 ![U6ZtUF4s7OgqIy6LkXJRydoVOY93/g7EO6uEYfgQoI5mc.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/U6ZtUF4s7OgqIy6LkXJRydoVOY93%2Fg7EO6uEYfgQoI5mc.jpg?alt=media&token=f1ee3029-9f62-4824-9b5e-043344c4b275)
-##     種族名:AZAbokkusu<br>
-##       名前:AZA-0025<br>
-##       月齢:1ヶ月<br>
+## 種族名:AZAbokkusu<br>
+## 名前:AZA-0025<br>
+## 月齢:1ヶ月<br>
 ## 好きな食べ物:草<br>
-##   好きな季節:夏<br>
-##      出身地:南極の地下<br>
-##       寿命:2年<br>
+## 好きな季節:夏<br>
+## 出身地:南極の地下<br>
+## 寿命:2年<br>
