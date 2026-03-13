@@ -19,7 +19,7 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=github,c,cpp,cs,html,css,swift,js,python,markdown,raspberrypi,unity,blender,anaconda,atom,bash,vscode,docker,apple)
 
-# キャラクター紹介
+# キャラクター紹介①
 ![U6ZtUF4s7OgqIy6LkXJRydoVOY93/xvrz7yQGuhE3ui0w.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/U6ZtUF4s7OgqIy6LkXJRydoVOY93%2Fxvrz7yQGuhE3ui0w.jpg?alt=media&token=d0d989bc-8afb-441a-be9c-b245ec5f01cf)
 ##      種族名:Nekko<br>
 ##       名前:SirogomaAZARASI<br>
@@ -28,5 +28,6 @@
 ##  好きな季節:冬<br>
 ##     出身地:南極<br>
 ##      寿命:20〜30年<br>
+# キャラクター紹介②
 
 
