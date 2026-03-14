@@ -19,7 +19,7 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=github,c,cpp,cs,html,css,swift,js,python,markdown,raspberrypi,unity,blender,anaconda,atom,bash,vscode,docker,apple)
 
-# キャラクター紹介①
+# キャラクター紹介1
 ![U6ZtUF4s7OgqIy6LkXJRydoVOY93/xvrz7yQGuhE3ui0w.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/U6ZtUF4s7OgqIy6LkXJRydoVOY93%2Fxvrz7yQGuhE3ui0w.jpg?alt=media&token=d0d989bc-8afb-441a-be9c-b245ec5f01cf)
 ## 種族名:Nekko<br>
 ## 名前:SirogomaAZARASI<br>
