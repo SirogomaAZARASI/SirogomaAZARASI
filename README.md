@@ -28,7 +28,7 @@
 ## 好きな季節:冬<br>
 ## 出身地:南極<br>
 ## 寿命:20〜30年<br>
-# キャラクター紹介②
+# キャラクター紹介2
 ![U6ZtUF4s7OgqIy6LkXJRydoVOY93/g7EO6uEYfgQoI5mc.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/U6ZtUF4s7OgqIy6LkXJRydoVOY93%2Fg7EO6uEYfgQoI5mc.jpg?alt=media&token=f1ee3029-9f62-4824-9b5e-043344c4b275)
 ## 種族名:AZAbokkusu<br>
 ## 名前:AZA-0025<br>
