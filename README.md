@@ -37,3 +37,6 @@
 ## 好きな季節:夏<br>
 ## 出身地:南極の地下<br>
 ## 寿命:2年<br>
+# キャラクター紹介3
+![U6ZtUF4s7OgqIy6LkXJRydoVOY93/q7VxF3dm7BB7n1P8.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/U6ZtUF4s7OgqIy6LkXJRydoVOY93%2Fq7VxF3dm7BB7n1P8.jpg?alt=media&token=4a04ca0f-d2a7-4d7d-b082-254e06986d9b)
+## 種族名AZAcat
