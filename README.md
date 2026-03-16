@@ -41,3 +41,4 @@
 ![U6ZtUF4s7OgqIy6LkXJRydoVOY93/e71ohbrqcqNzL0G0.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/U6ZtUF4s7OgqIy6LkXJRydoVOY93%2Fe71ohbrqcqNzL0G0.jpg?alt=media&token=dff255f2-8eab-4aa7-a5a7-fbe5a4c64015)
 ## 種族名:AZAcat<br>
 ## 名前:AZCA-1082<br>
+## 年齢:100歳
