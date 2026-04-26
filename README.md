@@ -19,7 +19,7 @@
 
 # キャラクター紹介1
 ![U6ZtUF4s7OgqIy6LkXJRydoVOY93/xvrz7yQGuhE3ui0w.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/U6ZtUF4s7OgqIy6LkXJRydoVOY93%2Fxvrz7yQGuhE3ui0w.jpg?alt=media&token=d0d989bc-8afb-441a-be9c-b245ec5f01cf)
-## 種族名:めんたいこ<br>
+## 種族名:Nekko<br>
 ## 名前:SirogomaAZARASI<br>
 ## 年齢:8歳<br>
 ## 好きな食べ物:いわし<br>
